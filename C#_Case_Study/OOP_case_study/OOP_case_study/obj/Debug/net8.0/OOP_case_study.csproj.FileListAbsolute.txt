@@ -1,0 +1,14 @@
+C:\Users\thris\source\repos\OOP_case_study\OOP_case_study\bin\Debug\net8.0\OOP_case_study.exe
+C:\Users\thris\source\repos\OOP_case_study\OOP_case_study\bin\Debug\net8.0\OOP_case_study.deps.json
+C:\Users\thris\source\repos\OOP_case_study\OOP_case_study\bin\Debug\net8.0\OOP_case_study.runtimeconfig.json
+C:\Users\thris\source\repos\OOP_case_study\OOP_case_study\bin\Debug\net8.0\OOP_case_study.dll
+C:\Users\thris\source\repos\OOP_case_study\OOP_case_study\bin\Debug\net8.0\OOP_case_study.pdb
+C:\Users\thris\source\repos\OOP_case_study\OOP_case_study\obj\Debug\net8.0\OOP_case_study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thris\source\repos\OOP_case_study\OOP_case_study\obj\Debug\net8.0\OOP_case_study.AssemblyInfoInputs.cache
+C:\Users\thris\source\repos\OOP_case_study\OOP_case_study\obj\Debug\net8.0\OOP_case_study.AssemblyInfo.cs
+C:\Users\thris\source\repos\OOP_case_study\OOP_case_study\obj\Debug\net8.0\OOP_case_study.csproj.CoreCompileInputs.cache
+C:\Users\thris\source\repos\OOP_case_study\OOP_case_study\obj\Debug\net8.0\OOP_case_study.dll
+C:\Users\thris\source\repos\OOP_case_study\OOP_case_study\obj\Debug\net8.0\refint\OOP_case_study.dll
+C:\Users\thris\source\repos\OOP_case_study\OOP_case_study\obj\Debug\net8.0\OOP_case_study.pdb
+C:\Users\thris\source\repos\OOP_case_study\OOP_case_study\obj\Debug\net8.0\OOP_case_study.genruntimeconfig.cache
+C:\Users\thris\source\repos\OOP_case_study\OOP_case_study\obj\Debug\net8.0\ref\OOP_case_study.dll
