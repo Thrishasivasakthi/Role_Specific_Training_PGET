@@ -1,0 +1,14 @@
+C:\Users\thris\source\repos\Case_study_9_Linq\Case_study_9_Linq\bin\Debug\net8.0\Case_study_9_Linq.exe
+C:\Users\thris\source\repos\Case_study_9_Linq\Case_study_9_Linq\bin\Debug\net8.0\Case_study_9_Linq.deps.json
+C:\Users\thris\source\repos\Case_study_9_Linq\Case_study_9_Linq\bin\Debug\net8.0\Case_study_9_Linq.runtimeconfig.json
+C:\Users\thris\source\repos\Case_study_9_Linq\Case_study_9_Linq\bin\Debug\net8.0\Case_study_9_Linq.dll
+C:\Users\thris\source\repos\Case_study_9_Linq\Case_study_9_Linq\bin\Debug\net8.0\Case_study_9_Linq.pdb
+C:\Users\thris\source\repos\Case_study_9_Linq\Case_study_9_Linq\obj\Debug\net8.0\Case_study_9_Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thris\source\repos\Case_study_9_Linq\Case_study_9_Linq\obj\Debug\net8.0\Case_study_9_Linq.AssemblyInfoInputs.cache
+C:\Users\thris\source\repos\Case_study_9_Linq\Case_study_9_Linq\obj\Debug\net8.0\Case_study_9_Linq.AssemblyInfo.cs
+C:\Users\thris\source\repos\Case_study_9_Linq\Case_study_9_Linq\obj\Debug\net8.0\Case_study_9_Linq.csproj.CoreCompileInputs.cache
+C:\Users\thris\source\repos\Case_study_9_Linq\Case_study_9_Linq\obj\Debug\net8.0\Case_study_9_Linq.dll
+C:\Users\thris\source\repos\Case_study_9_Linq\Case_study_9_Linq\obj\Debug\net8.0\refint\Case_study_9_Linq.dll
+C:\Users\thris\source\repos\Case_study_9_Linq\Case_study_9_Linq\obj\Debug\net8.0\Case_study_9_Linq.pdb
+C:\Users\thris\source\repos\Case_study_9_Linq\Case_study_9_Linq\obj\Debug\net8.0\Case_study_9_Linq.genruntimeconfig.cache
+C:\Users\thris\source\repos\Case_study_9_Linq\Case_study_9_Linq\obj\Debug\net8.0\ref\Case_study_9_Linq.dll
