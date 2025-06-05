@@ -1,5 +1,4 @@
-create database EventDb 
-go
+
 
 create table UserInfo (
 EmailId varchar(50) primary key,
