@@ -1,0 +1,11 @@
+C:\Users\thris\source\repos\StudentDAL_1\StudentDAL_1\bin\Debug\net8.0\StudentDAL_1.deps.json
+C:\Users\thris\source\repos\StudentDAL_1\StudentDAL_1\bin\Debug\net8.0\StudentDAL_1.dll
+C:\Users\thris\source\repos\StudentDAL_1\StudentDAL_1\bin\Debug\net8.0\StudentDAL_1.pdb
+C:\Users\thris\source\repos\StudentDAL_1\StudentDAL_1\obj\Debug\net8.0\StudentDAL_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thris\source\repos\StudentDAL_1\StudentDAL_1\obj\Debug\net8.0\StudentDAL_1.AssemblyInfoInputs.cache
+C:\Users\thris\source\repos\StudentDAL_1\StudentDAL_1\obj\Debug\net8.0\StudentDAL_1.AssemblyInfo.cs
+C:\Users\thris\source\repos\StudentDAL_1\StudentDAL_1\obj\Debug\net8.0\StudentDAL_1.csproj.CoreCompileInputs.cache
+C:\Users\thris\source\repos\StudentDAL_1\StudentDAL_1\obj\Debug\net8.0\StudentDAL_1.dll
+C:\Users\thris\source\repos\StudentDAL_1\StudentDAL_1\obj\Debug\net8.0\refint\StudentDAL_1.dll
+C:\Users\thris\source\repos\StudentDAL_1\StudentDAL_1\obj\Debug\net8.0\StudentDAL_1.pdb
+C:\Users\thris\source\repos\StudentDAL_1\StudentDAL_1\obj\Debug\net8.0\ref\StudentDAL_1.dll
