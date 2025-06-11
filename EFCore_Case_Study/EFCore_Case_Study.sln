@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{94B9EE02-F711-4192-8311-04E9FDA38727}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppUI", "AppUI\AppUI.csproj", "{AE17E2BE-86E4-45A5-A967-B3E067D067D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94B9EE02-F711-4192-8311-04E9FDA38727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B9EE02-F711-4192-8311-04E9FDA38727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B9EE02-F711-4192-8311-04E9FDA38727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B9EE02-F711-4192-8311-04E9FDA38727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE17E2BE-86E4-45A5-A967-B3E067D067D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE17E2BE-86E4-45A5-A967-B3E067D067D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE17E2BE-86E4-45A5-A967-B3E067D067D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE17E2BE-86E4-45A5-A967-B3E067D067D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C25B1F1-D81F-456E-A93A-E19121094FBF}
+	EndGlobalSection
+EndGlobal

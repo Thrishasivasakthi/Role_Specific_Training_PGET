@@ -1,0 +1,5 @@
+C:\Users\thris\source\repos\EFCore_Case_Study\AppUI\obj\Debug\net8.0\AppUI.csproj.AssemblyReference.cache
+C:\Users\thris\source\repos\EFCore_Case_Study\AppUI\obj\Debug\net8.0\AppUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thris\source\repos\EFCore_Case_Study\AppUI\obj\Debug\net8.0\AppUI.AssemblyInfoInputs.cache
+C:\Users\thris\source\repos\EFCore_Case_Study\AppUI\obj\Debug\net8.0\AppUI.AssemblyInfo.cs
+C:\Users\thris\source\repos\EFCore_Case_Study\AppUI\obj\Debug\net8.0\AppUI.csproj.CoreCompileInputs.cache

@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|c:\\users\\thris\\source\\repos\\efcore_case_study\\dal\\models\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|solutionrelative:dal\\models\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|c:\\users\\thris\\source\\repos\\efcore_case_study\\dal\\dataaccess\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|c:\\users\\thris\\source\\repos\\efcore_case_study\\dal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|solutionrelative:dal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|c:\\users\\thris\\source\\repos\\efcore_case_study\\dal\\dataaccess\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|c:\\users\\thris\\source\\repos\\efcore_case_study\\dal\\dataaccess\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|c:\\users\\thris\\source\\repos\\efcore_case_study\\dal\\models\\eventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|solutionrelative:dal\\models\\eventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|c:\\users\\thris\\source\\repos\\efcore_case_study\\dal\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|solutionrelative:dal\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|c:\\users\\thris\\source\\repos\\efcore_case_study\\dal\\models\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|solutionrelative:dal\\models\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|c:\\users\\thris\\source\\repos\\efcore_case_study\\dal\\models\\eventdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|solutionrelative:dal\\models\\eventdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE17E2BE-86E4-45A5-A967-B3E067D067D7}|AppUI\\AppUI.csproj|c:\\users\\thris\\source\\repos\\efcore_case_study\\appui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE17E2BE-86E4-45A5-A967-B3E067D067D7}|AppUI\\AppUI.csproj|solutionrelative:appui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|c:\\users\\thris\\source\\repos\\efcore_case_study\\dal\\dataaccess\\isessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\isessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|c:\\users\\thris\\source\\repos\\efcore_case_study\\dal\\dataaccess\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|c:\\users\\thris\\source\\repos\\efcore_case_study\\dal\\dataaccess\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thris\\Downloads\\OneDrive_2025-06-10\\EF Core\\Demos\\Ecomm\\Ecomm\\DAL\\Models\\DatabaseHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|c:\\users\\thris\\source\\repos\\efcore_case_study\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B9EE02-F711-4192-8311-04E9FDA38727}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE17E2BE-86E4-45A5-A967-B3E067D067D7}|AppUI\\AppUI.csproj|c:\\users\\thris\\source\\repos\\efcore_case_study\\appui\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE17E2BE-86E4-45A5-A967-B3E067D067D7}|AppUI\\AppUI.csproj|solutionrelative:appui\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE17E2BE-86E4-45A5-A967-B3E067D067D7}|AppUI\\AppUI.csproj|c:\\users\\thris\\source\\repos\\efcore_case_study\\appui\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE17E2BE-86E4-45A5-A967-B3E067D067D7}|AppUI\\AppUI.csproj|solutionrelative:appui\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE17E2BE-86E4-45A5-A967-B3E067D067D7}|AppUI\\AppUI.csproj|c:\\users\\thris\\source\\repos\\efcore_case_study\\appui\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE17E2BE-86E4-45A5-A967-B3E067D067D7}|AppUI\\AppUI.csproj|solutionrelative:appui\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppSettings.json",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\AppSettings.json",
+              "RelativeDocumentMoniker": "DAL\\AppSettings.json",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\AppSettings.json",
+              "RelativeToolTip": "DAL\\AppSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T12:01:42.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataBaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\Models\\DataBaseHelper.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\DataBaseHelper.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\Models\\DataBaseHelper.cs",
+              "RelativeToolTip": "DAL\\Models\\DataBaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T12:03:28.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SessionInfo.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\Models\\SessionInfo.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\SessionInfo.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\Models\\SessionInfo.cs",
+              "RelativeToolTip": "DAL\\Models\\SessionInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:04:57.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\Models\\UserInfo.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\Models\\UserInfo.cs",
+              "RelativeToolTip": "DAL\\Models\\UserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:03:01.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventDetails.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\Models\\EventDetails.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\EventDetails.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\Models\\EventDetails.cs",
+              "RelativeToolTip": "DAL\\Models\\EventDetails.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:04:07.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\DataAccess\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\DataAccess\\UserRepository.cs",
+              "RelativeToolTip": "DAL\\DataAccess\\UserRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:11:46.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\DataAccess\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\DataAccess\\IUserRepository.cs",
+              "RelativeToolTip": "DAL\\DataAccess\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:08:50.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\DataAccess\\EventRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\DataAccess\\EventRepository.cs",
+              "RelativeToolTip": "DAL\\DataAccess\\EventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:13:42.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\Models\\EventDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\EventDbContext.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\Models\\EventDbContext.cs",
+              "RelativeToolTip": "DAL\\Models\\EventDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T12:11:14.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\AppUI\\Program.cs",
+              "RelativeDocumentMoniker": "AppUI\\Program.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\AppUI\\Program.cs",
+              "RelativeToolTip": "AppUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:25:04.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISessionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\DataAccess\\ISessionRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess\\ISessionRepository.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\DataAccess\\ISessionRepository.cs",
+              "RelativeToolTip": "DAL\\DataAccess\\ISessionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:10:43.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SessionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\DataAccess\\SessionRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess\\SessionRepository.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\DataAccess\\SessionRepository.cs",
+              "RelativeToolTip": "DAL\\DataAccess\\SessionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:17:25.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\DataAccess\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess\\IEventRepository.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\DataAccess\\IEventRepository.cs",
+              "RelativeToolTip": "DAL\\DataAccess\\IEventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:09:49.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\OneDrive_2025-06-10\\EF Core\\Demos\\Ecomm\\Ecomm\\DAL\\Models\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\OneDrive_2025-06-10\\EF Core\\Demos\\Ecomm\\Ecomm\\DAL\\Models\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\OneDrive_2025-06-10\\EF Core\\Demos\\Ecomm\\Ecomm\\DAL\\Models\\DatabaseHelper.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\OneDrive_2025-06-10\\EF Core\\Demos\\Ecomm\\Ecomm\\DAL\\Models\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T12:04:34.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:55:23.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SessionService.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\AppUI\\SessionService.cs",
+              "RelativeDocumentMoniker": "AppUI\\SessionService.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\AppUI\\SessionService.cs",
+              "RelativeToolTip": "AppUI\\SessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:31:50.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\AppUI\\EventService.cs",
+              "RelativeDocumentMoniker": "AppUI\\EventService.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\AppUI\\EventService.cs",
+              "RelativeToolTip": "AppUI\\EventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:31:10.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\AppUI\\UserService.cs",
+              "RelativeDocumentMoniker": "AppUI\\UserService.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\EFCore_Case_Study\\AppUI\\UserService.cs",
+              "RelativeToolTip": "AppUI\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:30:08.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
