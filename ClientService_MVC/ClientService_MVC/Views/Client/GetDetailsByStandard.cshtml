@@ -1,0 +1,34 @@
+﻿@model List<ClientService_MVC.Models.ClientInfo>
+
+
+
+
+
+<h2>Clients with Standard: @Model.FirstOrDefault()?.Standard</h2>
+
+<table border="1" cellpadding="5" cellspacing="0">
+    <thead>
+        <tr>
+            <th>Client ID</th>
+            <th>Company Name</th>
+            <th>Website</th>
+            <th>Email</th>
+            <th>Category</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var client in Model)
+        {
+            <tr>
+                <td>@client.ClientId</td>
+                <td>@client.CompanyName</td>
+                <td><a href="@client.WebUrl" target="_blank">Visit</a></td>
+                <td>@client.Email</td>
+                <td>@client.Category</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<br />
+<a href="/Client/ShowAllClientDetails">Back to All Clients</a>

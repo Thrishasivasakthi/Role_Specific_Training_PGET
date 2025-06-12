@@ -1,0 +1,40 @@
+﻿@model List<ClientService_MVC.Models.ClientInfo>
+
+@{
+    ViewData["Title"] = "Clients by Category";
+    var category = Model.FirstOrDefault()?.Category.Replace("_", " ") ?? "Unknown";
+}
+
+<div class="container">
+    <h2 class="mt-4 mb-4">Clients in Category: @category</h2>
+
+    <div class="table-responsive">
+        <table class="table table-bordered table-striped">
+            <thead class="thead-light">
+                <tr>
+                    <th>Client ID</th>
+                    <th>Company Name</th>
+                    <th>Website</th>
+                    <th>Email</th>
+                    <th>Standard</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var client in Model)
+                {
+                    <tr>
+                        <td>@client.ClientId</td>
+                        <td>@client.CompanyName</td>
+                        <td><a href="@client.WebUrl" target="_blank">Visit</a></td>
+                        <td><a href="mailto:@client.Email">@client.Email</a></td>
+                        <td>@client.Standard</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <div class="mt-3">
+        <a asp-action="ShowAllClientDetails" class="btn btn-primary">Back to All Clients</a>
+    </div>
+</div>

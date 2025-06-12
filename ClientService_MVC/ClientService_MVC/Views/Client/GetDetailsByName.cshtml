@@ -1,0 +1,19 @@
+﻿@model ClientService_MVC.Models.ClientInfo
+
+
+
+<h2>Client Details</h2>
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">@Model.CompanyName</h5>
+        <p class="card-text">
+            <strong>Client ID:</strong> @Model.ClientId<br>
+            <strong>Website:</strong> <a href="@Model.WebUrl" target="_blank">@Model.WebUrl</a><br>
+            <strong>Email:</strong> @Model.Email<br>
+            <strong>Category:</strong> @Model.Category<br>
+            <strong>Standard:</strong> @Model.Standard
+        </p>
+        <a asp-action="ShowAllClientDetails" class="btn btn-primary">Back to List</a>
+    </div>
+</div>

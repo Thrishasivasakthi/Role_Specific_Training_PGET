@@ -1,0 +1,31 @@
+﻿@model List<ClientService_MVC.Models.ClientInfo>
+
+<h2>All Client Details</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Client ID</th>
+            <th>Company Name</th>
+            <th>Website URL</th>
+            <th>Email</th>
+            <th>Category</th>
+            <th>Standard</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var client in Model)
+        {
+            <tr>
+                <td>@client.ClientId</td>
+                <td>@client.CompanyName</td>
+                <td><a href="@client.WebUrl" target="_blank">@client.WebUrl</a></td>
+                <td>@client.Email</td>
+                <td>@client.Category</td>
+                <td>@client.Standard</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="AddClient" class="btn btn-primary">Add New Client</a>

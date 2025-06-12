@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ContactDelivery_MVC.props" />
+</Project>

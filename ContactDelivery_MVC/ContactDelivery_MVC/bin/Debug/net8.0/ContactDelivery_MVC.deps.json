@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ContactDelivery_MVC/1.0.0": {
+        "runtime": {
+          "ContactDelivery_MVC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContactDelivery_MVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thris\\source\\repos\\ClientService_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68797086-EF45-405B-ADE4-285310044839}|ClientService_MVC\\ClientService_MVC.csproj|c:\\users\\thris\\source\\repos\\clientservice_mvc\\clientservice_mvc\\views\\client\\addclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68797086-EF45-405B-ADE4-285310044839}|ClientService_MVC\\ClientService_MVC.csproj|solutionrelative:clientservice_mvc\\views\\client\\addclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68797086-EF45-405B-ADE4-285310044839}|ClientService_MVC\\ClientService_MVC.csproj|c:\\users\\thris\\source\\repos\\clientservice_mvc\\clientservice_mvc\\views\\client\\showallclientdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68797086-EF45-405B-ADE4-285310044839}|ClientService_MVC\\ClientService_MVC.csproj|solutionrelative:clientservice_mvc\\views\\client\\showallclientdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68797086-EF45-405B-ADE4-285310044839}|ClientService_MVC\\ClientService_MVC.csproj|c:\\users\\thris\\source\\repos\\clientservice_mvc\\clientservice_mvc\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68797086-EF45-405B-ADE4-285310044839}|ClientService_MVC\\ClientService_MVC.csproj|solutionrelative:clientservice_mvc\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68797086-EF45-405B-ADE4-285310044839}|ClientService_MVC\\ClientService_MVC.csproj|c:\\users\\thris\\source\\repos\\clientservice_mvc\\clientservice_mvc\\views\\client\\getdetailsbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68797086-EF45-405B-ADE4-285310044839}|ClientService_MVC\\ClientService_MVC.csproj|solutionrelative:clientservice_mvc\\views\\client\\getdetailsbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68797086-EF45-405B-ADE4-285310044839}|ClientService_MVC\\ClientService_MVC.csproj|c:\\users\\thris\\source\\repos\\clientservice_mvc\\clientservice_mvc\\views\\client\\getdetailsbystandard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68797086-EF45-405B-ADE4-285310044839}|ClientService_MVC\\ClientService_MVC.csproj|solutionrelative:clientservice_mvc\\views\\client\\getdetailsbystandard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68797086-EF45-405B-ADE4-285310044839}|ClientService_MVC\\ClientService_MVC.csproj|c:\\users\\thris\\source\\repos\\clientservice_mvc\\clientservice_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68797086-EF45-405B-ADE4-285310044839}|ClientService_MVC\\ClientService_MVC.csproj|solutionrelative:clientservice_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68797086-EF45-405B-ADE4-285310044839}|ClientService_MVC\\ClientService_MVC.csproj|c:\\users\\thris\\source\\repos\\clientservice_mvc\\clientservice_mvc\\views\\client\\getdetailsbyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68797086-EF45-405B-ADE4-285310044839}|ClientService_MVC\\ClientService_MVC.csproj|solutionrelative:clientservice_mvc\\views\\client\\getdetailsbyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68797086-EF45-405B-ADE4-285310044839}|ClientService_MVC\\ClientService_MVC.csproj|c:\\users\\thris\\source\\repos\\clientservice_mvc\\clientservice_mvc\\views\\client\\getdetailsbyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68797086-EF45-405B-ADE4-285310044839}|ClientService_MVC\\ClientService_MVC.csproj|solutionrelative:clientservice_mvc\\views\\client\\getdetailsbyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68797086-EF45-405B-ADE4-285310044839}|ClientService_MVC\\ClientService_MVC.csproj|c:\\users\\thris\\source\\repos\\clientservice_mvc\\clientservice_mvc\\views\\client\\getdetailsbyclientid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68797086-EF45-405B-ADE4-285310044839}|ClientService_MVC\\ClientService_MVC.csproj|solutionrelative:clientservice_mvc\\views\\client\\getdetailsbyclientid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68797086-EF45-405B-ADE4-285310044839}|ClientService_MVC\\ClientService_MVC.csproj|c:\\users\\thris\\source\\repos\\clientservice_mvc\\clientservice_mvc\\models\\clientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68797086-EF45-405B-ADE4-285310044839}|ClientService_MVC\\ClientService_MVC.csproj|solutionrelative:clientservice_mvc\\models\\clientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetDetailsByName.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\ClientService_MVC\\ClientService_MVC\\Views\\Client\\GetDetailsByName.cshtml",
+              "RelativeDocumentMoniker": "ClientService_MVC\\Views\\Client\\GetDetailsByName.cshtml",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\ClientService_MVC\\ClientService_MVC\\Views\\Client\\GetDetailsByName.cshtml",
+              "RelativeToolTip": "ClientService_MVC\\Views\\Client\\GetDetailsByName.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T17:12:45.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetDetailsByStandard.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\ClientService_MVC\\ClientService_MVC\\Views\\Client\\GetDetailsByStandard.cshtml",
+              "RelativeDocumentMoniker": "ClientService_MVC\\Views\\Client\\GetDetailsByStandard.cshtml",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\ClientService_MVC\\ClientService_MVC\\Views\\Client\\GetDetailsByStandard.cshtml",
+              "RelativeToolTip": "ClientService_MVC\\Views\\Client\\GetDetailsByStandard.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T17:15:44.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetDetailsByCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\ClientService_MVC\\ClientService_MVC\\Views\\Client\\GetDetailsByCategory.cshtml",
+              "RelativeDocumentMoniker": "ClientService_MVC\\Views\\Client\\GetDetailsByCategory.cshtml",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\ClientService_MVC\\ClientService_MVC\\Views\\Client\\GetDetailsByCategory.cshtml",
+              "RelativeToolTip": "ClientService_MVC\\Views\\Client\\GetDetailsByCategory.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T17:14:44.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddClient.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\ClientService_MVC\\ClientService_MVC\\Views\\Client\\AddClient.cshtml",
+              "RelativeDocumentMoniker": "ClientService_MVC\\Views\\Client\\AddClient.cshtml",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\ClientService_MVC\\ClientService_MVC\\Views\\Client\\AddClient.cshtml",
+              "RelativeToolTip": "ClientService_MVC\\Views\\Client\\AddClient.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T17:16:14.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\ClientService_MVC\\ClientService_MVC\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "ClientService_MVC\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\ClientService_MVC\\ClientService_MVC\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "ClientService_MVC\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:06:28.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowAllClientDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\ClientService_MVC\\ClientService_MVC\\Views\\Client\\ShowAllClientDetails.cshtml",
+              "RelativeDocumentMoniker": "ClientService_MVC\\Views\\Client\\ShowAllClientDetails.cshtml",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\ClientService_MVC\\ClientService_MVC\\Views\\Client\\ShowAllClientDetails.cshtml",
+              "RelativeToolTip": "ClientService_MVC\\Views\\Client\\ShowAllClientDetails.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T17:08:31.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetDetailsByEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\ClientService_MVC\\ClientService_MVC\\Views\\Client\\GetDetailsByEmail.cshtml",
+              "RelativeDocumentMoniker": "ClientService_MVC\\Views\\Client\\GetDetailsByEmail.cshtml",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\ClientService_MVC\\ClientService_MVC\\Views\\Client\\GetDetailsByEmail.cshtml",
+              "RelativeToolTip": "ClientService_MVC\\Views\\Client\\GetDetailsByEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T17:13:58.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetDetailsByClientId.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\ClientService_MVC\\ClientService_MVC\\Views\\Client\\GetDetailsByClientId.cshtml",
+              "RelativeDocumentMoniker": "ClientService_MVC\\Views\\Client\\GetDetailsByClientId.cshtml",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\ClientService_MVC\\ClientService_MVC\\Views\\Client\\GetDetailsByClientId.cshtml",
+              "RelativeToolTip": "ClientService_MVC\\Views\\Client\\GetDetailsByClientId.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T17:11:52.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\ClientService_MVC\\ClientService_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "ClientService_MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\ClientService_MVC\\ClientService_MVC\\Program.cs",
+              "RelativeToolTip": "ClientService_MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:16:40.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientInfo.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\ClientService_MVC\\ClientService_MVC\\Models\\ClientInfo.cs",
+              "RelativeDocumentMoniker": "ClientService_MVC\\Models\\ClientInfo.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\ClientService_MVC\\ClientService_MVC\\Models\\ClientInfo.cs",
+              "RelativeToolTip": "ClientService_MVC\\Models\\ClientInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:05:27.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
