@@ -32,3 +32,4 @@ C:\Users\thris\source\repos\ClientService_MVC\ClientService_MVC\obj\Debug\net8.0
 C:\Users\thris\source\repos\ClientService_MVC\ClientService_MVC\obj\Debug\net8.0\ClientService_MVC.pdb
 C:\Users\thris\source\repos\ClientService_MVC\ClientService_MVC\obj\Debug\net8.0\ClientService_MVC.genruntimeconfig.cache
 C:\Users\thris\source\repos\ClientService_MVC\ClientService_MVC\obj\Debug\net8.0\ref\ClientService_MVC.dll
+C:\Users\thris\source\repos\ClientService_MVC\ClientService_MVC\bin\Debug\net8.0\libman.json

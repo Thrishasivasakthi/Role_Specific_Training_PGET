@@ -7,7 +7,7 @@ public class ClientController : Controller
 {
     private static List<ClientInfo> _clients = new List<ClientInfo>();
 
-    private static int _nextId = 1;
+    //private static int _nextId = 1;
 
     [Route("")]
     [Route("Clients")]
@@ -61,14 +61,8 @@ public class ClientController : Controller
     [Route("Clients/Add")]
     public ActionResult AddClient(ClientInfo clientInfo)
     {
-        // Validate model
-        if (!ModelState.IsValid)
-        {
-            return View(clientInfo);
-        }
+        
 
-        // Assign ID and add to list
-        clientInfo.ClientId = _nextId++;
         _clients.Add(clientInfo);
 
         // Redirect to show all clients
