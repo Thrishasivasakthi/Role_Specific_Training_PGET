@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thris\\source\\repos\\LMSApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|c:\\users\\thris\\source\\repos\\lmsapp\\lmsapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|c:\\users\\thris\\source\\repos\\lmsapp\\lmsapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|c:\\users\\thris\\source\\repos\\lmsapp\\lmsapp\\views\\home\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\views\\home\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|c:\\users\\thris\\source\\repos\\lmsapp\\lmsapp\\views\\learner\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\views\\learner\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|c:\\users\\thris\\source\\repos\\lmsapp\\lmsapp\\views\\trainer\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\views\\trainer\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|c:\\users\\thris\\source\\repos\\lmsapp\\lmsapp\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|c:\\users\\thris\\source\\repos\\lmsapp\\lmsapp\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|c:\\users\\thris\\source\\repos\\lmsapp\\lmsapp\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|c:\\users\\thris\\source\\repos\\lmsapp\\lmsapp\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|c:\\users\\thris\\source\\repos\\lmsapp\\lmsapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|c:\\users\\thris\\source\\repos\\lmsapp\\lmsapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|c:\\users\\thris\\source\\repos\\lmsapp\\lmsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|c:\\users\\thris\\source\\repos\\lmsapp\\lmsapp\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|c:\\users\\thris\\source\\repos\\lmsapp\\lmsapp\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|c:\\users\\thris\\source\\repos\\lmsapp\\lmsapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|c:\\users\\thris\\source\\repos\\lmsapp\\lmsapp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|c:\\users\\thris\\source\\repos\\lmsapp\\lmsapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE396E9-14D9-4857-9731-F0C67E09E8AD}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LMSApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LMSApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T16:40:47.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Adminlogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Views\\Home\\Adminlogin.cshtml",
+              "RelativeDocumentMoniker": "LMSApp\\Views\\Home\\Adminlogin.cshtml",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Views\\Home\\Adminlogin.cshtml",
+              "RelativeToolTip": "LMSApp\\Views\\Home\\Adminlogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T16:37:41.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Views\\Learner\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "LMSApp\\Views\\Learner\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Views\\Learner\\Dashboard.cshtml",
+              "RelativeToolTip": "LMSApp\\Views\\Learner\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T16:37:04.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Views\\Trainer\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "LMSApp\\Views\\Trainer\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Views\\Trainer\\Dashboard.cshtml",
+              "RelativeToolTip": "LMSApp\\Views\\Trainer\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T16:36:33.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "LMSApp\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "LMSApp\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T16:36:02.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "LMSApp\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "LMSApp\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T16:35:26.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LMSApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LMSApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T16:31:24.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "LMSApp\\Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "LMSApp\\Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T16:34:52.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "LMSApp\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "LMSApp\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T16:34:25.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LMSApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LMSApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T16:27:20.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Program.cs",
+              "RelativeDocumentMoniker": "LMSApp\\Program.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Program.cs",
+              "RelativeToolTip": "LMSApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:21:26.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LearnerController.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\controllers\\LearnerController.cs",
+              "RelativeDocumentMoniker": "LMSApp\\controllers\\LearnerController.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\controllers\\LearnerController.cs",
+              "RelativeToolTip": "LMSApp\\controllers\\LearnerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:17:59.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TrainerController.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\controllers\\TrainerController.cs",
+              "RelativeDocumentMoniker": "LMSApp\\controllers\\TrainerController.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\controllers\\TrainerController.cs",
+              "RelativeToolTip": "LMSApp\\controllers\\TrainerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:17:23.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LMSApp\\controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\controllers\\HomeController.cs",
+              "RelativeToolTip": "LMSApp\\controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:14:25.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "LMSApp\\controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\controllers\\AdminController.cs",
+              "RelativeToolTip": "LMSApp\\controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:16:44.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "LMSApp\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Models\\Course.cs",
+              "RelativeToolTip": "LMSApp\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:15:44.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LMSApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\thris\\source\\repos\\LMSApp\\LMSApp\\Models\\User.cs",
+              "RelativeToolTip": "LMSApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:15:08.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
