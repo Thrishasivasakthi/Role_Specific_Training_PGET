@@ -1,0 +1,21 @@
+﻿@model AppUI.Models.LoginDTO
+
+<h1>Login Page</h1>
+
+<form asp-route="ValidateUser" method="post">
+    <div>
+        <label asp-for="EmailId">Email:</label>
+        <input type="text" asp-for="EmailId" />
+    </div>
+    <div>
+        <label asp-for="Password">Password:</label>
+        <input type="password" asp-for="Password" />
+    </div>
+    <div>
+        <input type="submit" value="Login" />
+    </div>
+</form>
+@if (!ViewData.ModelState.IsValid)
+{
+    <p style="color:red;">Login failed. Invalid email or password.</p>
+}

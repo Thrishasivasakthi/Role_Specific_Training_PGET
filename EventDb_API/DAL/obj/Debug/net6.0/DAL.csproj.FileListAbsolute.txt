@@ -1,0 +1,17 @@
+D:\FSD-casestudy\ASP.Net API\CaseStudy_API\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\FSD-casestudy\ASP.Net API\CaseStudy_API\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\FSD-casestudy\ASP.Net API\CaseStudy_API\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\FSD-casestudy\ASP.Net API\CaseStudy_API\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\FSD-casestudy\ASP.Net API\CaseStudy_API\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\FSD-casestudy\ASP.Net API\CaseStudy_API\DAL\obj\Debug\net6.0\DAL.sourcelink.json
+D:\FSD-casestudy\ASP.Net API\CaseStudy_API\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\FSD-casestudy\ASP.Net API\CaseStudy_API\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\FSD-casestudy\ASP.Net API\CaseStudy_API\DAL\bin\Debug\net6.0\DAL.dll
+D:\FSD-casestudy\ASP.Net API\CaseStudy_API\DAL\bin\Debug\net6.0\DAL.pdb
+D:\FSD-casestudy\ASP.Net API\CaseStudy_API\DAL\obj\Debug\net6.0\DAL.dll
+D:\FSD-casestudy\ASP.Net API\CaseStudy_API\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\FSD-casestudy\ASP.Net API\CaseStudy_API\DAL\obj\Debug\net6.0\DAL.pdb
+D:\FSD-casestudy\ASP.Net API\CaseStudy_API\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\FSD-casestudy\ASP.Net API\CaseStudy_API\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\FSD-casestudy\ASP.Net API\CaseStudy_API\DAL\bin\Debug\net6.0\appsettings.Development.json
+D:\FSD-casestudy\ASP.Net API\CaseStudy_API\DAL\bin\Debug\net6.0\appsettings.json

@@ -1,0 +1,638 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\thris\\downloads\\casestudy_api\\servicelayer\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\thris\\downloads\\casestudy_api\\servicelayer\\controllers\\participantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\controllers\\participantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|c:\\users\\thris\\downloads\\casestudy_api\\appui\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|solutionrelative:appui\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|c:\\users\\thris\\downloads\\casestudy_api\\appui\\controllers\\participantdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|solutionrelative:appui\\controllers\\participantdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|c:\\users\\thris\\downloads\\casestudy_api\\appui\\controllers\\eventdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|solutionrelative:appui\\controllers\\eventdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D498D82A-852A-45DF-8D83-E3A4708E21B8}|DAL\\DAL.csproj|c:\\users\\thris\\downloads\\casestudy_api\\dal\\eventdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D498D82A-852A-45DF-8D83-E3A4708E21B8}|DAL\\DAL.csproj|solutionrelative:dal\\eventdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\thris\\downloads\\casestudy_api\\servicelayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\thris\\downloads\\casestudy_api\\servicelayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\thris\\downloads\\casestudy_api\\servicelayer\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\thris\\downloads\\casestudy_api\\servicelayer\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D498D82A-852A-45DF-8D83-E3A4708E21B8}|DAL\\DAL.csproj|c:\\users\\thris\\downloads\\casestudy_api\\dal\\eventdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D498D82A-852A-45DF-8D83-E3A4708E21B8}|DAL\\DAL.csproj|solutionrelative:dal\\eventdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D498D82A-852A-45DF-8D83-E3A4708E21B8}|DAL\\DAL.csproj|c:\\users\\thris\\downloads\\casestudy_api\\dal\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D498D82A-852A-45DF-8D83-E3A4708E21B8}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D498D82A-852A-45DF-8D83-E3A4708E21B8}|DAL\\DAL.csproj|c:\\users\\thris\\downloads\\casestudy_api\\dal\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D498D82A-852A-45DF-8D83-E3A4708E21B8}|DAL\\DAL.csproj|solutionrelative:dal\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D498D82A-852A-45DF-8D83-E3A4708E21B8}|DAL\\DAL.csproj|c:\\users\\thris\\downloads\\casestudy_api\\dal\\models\\eventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D498D82A-852A-45DF-8D83-E3A4708E21B8}|DAL\\DAL.csproj|solutionrelative:dal\\models\\eventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|c:\\users\\thris\\downloads\\casestudy_api\\appui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|solutionrelative:appui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|c:\\users\\thris\\downloads\\casestudy_api\\appui\\views\\participant\\updateparticipant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|solutionrelative:appui\\views\\participant\\updateparticipant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|c:\\users\\thris\\downloads\\casestudy_api\\appui\\views\\participant\\participantlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|solutionrelative:appui\\views\\participant\\participantlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|c:\\users\\thris\\downloads\\casestudy_api\\appui\\views\\participant\\deleteparticipant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|solutionrelative:appui\\views\\participant\\deleteparticipant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|c:\\users\\thris\\downloads\\casestudy_api\\appui\\views\\participant\\addparticipant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|solutionrelative:appui\\views\\participant\\addparticipant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|c:\\users\\thris\\downloads\\casestudy_api\\appui\\views\\eventdetails\\updateevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|solutionrelative:appui\\views\\eventdetails\\updateevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|c:\\users\\thris\\downloads\\casestudy_api\\appui\\views\\eventdetails\\geteventsbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|solutionrelative:appui\\views\\eventdetails\\geteventsbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|c:\\users\\thris\\downloads\\casestudy_api\\appui\\views\\eventdetails\\eventlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|solutionrelative:appui\\views\\eventdetails\\eventlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|c:\\users\\thris\\downloads\\casestudy_api\\appui\\views\\eventdetails\\deleteevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|solutionrelative:appui\\views\\eventdetails\\deleteevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|c:\\users\\thris\\downloads\\casestudy_api\\appui\\views\\eventdetails\\addevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|solutionrelative:appui\\views\\eventdetails\\addevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|c:\\users\\thris\\downloads\\casestudy_api\\appui\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|solutionrelative:appui\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|c:\\users\\thris\\downloads\\casestudy_api\\appui\\models\\speakerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|solutionrelative:appui\\models\\speakerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|c:\\users\\thris\\downloads\\casestudy_api\\appui\\models\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|solutionrelative:appui\\models\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|c:\\users\\thris\\downloads\\casestudy_api\\appui\\models\\participanteventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|solutionrelative:appui\\models\\participanteventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|c:\\users\\thris\\downloads\\casestudy_api\\appui\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|solutionrelative:appui\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|c:\\users\\thris\\downloads\\casestudy_api\\appui\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|solutionrelative:appui\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|c:\\users\\thris\\downloads\\casestudy_api\\appui\\models\\eventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|solutionrelative:appui\\models\\eventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\thris\\downloads\\casestudy_api\\servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|c:\\users\\thris\\downloads\\casestudy_api\\appui\\views\\userinfo\\loginpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|solutionrelative:appui\\views\\userinfo\\loginpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D498D82A-852A-45DF-8D83-E3A4708E21B8}|DAL\\DAL.csproj|c:\\users\\thris\\downloads\\casestudy_api\\dal\\migrations\\20250623030331_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D498D82A-852A-45DF-8D83-E3A4708E21B8}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20250623030331_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D498D82A-852A-45DF-8D83-E3A4708E21B8}|DAL\\DAL.csproj|c:\\users\\thris\\downloads\\casestudy_api\\dal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D498D82A-852A-45DF-8D83-E3A4708E21B8}|DAL\\DAL.csproj|solutionrelative:dal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|c:\\users\\thris\\downloads\\casestudy_api\\appui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C857863-0051-49A7-A91C-3FE0885B7FDD}|AppUI\\AppUI.csproj|solutionrelative:appui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D498D82A-852A-45DF-8D83-E3A4708E21B8}|DAL\\DAL.csproj|c:\\users\\thris\\downloads\\casestudy_api\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D498D82A-852A-45DF-8D83-E3A4708E21B8}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\thris\\downloads\\casestudy_api\\servicelayer\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SessionController.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\ServiceLayer\\Controllers\\SessionController.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Controllers\\SessionController.cs",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\ServiceLayer\\Controllers\\SessionController.cs",
+              "RelativeToolTip": "ServiceLayer\\Controllers\\SessionController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:39:34.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParticipantController.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\ServiceLayer\\Controllers\\ParticipantController.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Controllers\\ParticipantController.cs",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\ServiceLayer\\Controllers\\ParticipantController.cs",
+              "RelativeToolTip": "ServiceLayer\\Controllers\\ParticipantController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:39:23.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\DAL\\EventDbContextFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\EventDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\DAL\\EventDbContextFactory.cs",
+              "RelativeToolTip": "DAL\\EventDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:16:56.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\ServiceLayer\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\ServiceLayer\\Program.cs",
+              "RelativeToolTip": "ServiceLayer\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAswGYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:43:06.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\ServiceLayer\\appsettings.json",
+              "RelativeDocumentMoniker": "ServiceLayer\\appsettings.json",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\ServiceLayer\\appsettings.json",
+              "RelativeToolTip": "ServiceLayer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T02:59:19.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\DAL\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\DAL\\Repository\\Repository.cs",
+              "RelativeToolTip": "DAL\\Repository\\Repository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:25:37.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Controllers\\EventDetailsController.cs",
+              "RelativeDocumentMoniker": "AppUI\\Controllers\\EventDetailsController.cs",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Controllers\\EventDetailsController.cs",
+              "RelativeToolTip": "AppUI\\Controllers\\EventDetailsController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAIwCEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:11:12.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParticipantDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Controllers\\ParticipantDetailController.cs",
+              "RelativeDocumentMoniker": "AppUI\\Controllers\\ParticipantDetailController.cs",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Controllers\\ParticipantDetailController.cs",
+              "RelativeToolTip": "AppUI\\Controllers\\ParticipantDetailController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAIwBMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:12:01.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AppUI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AppUI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwBQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:10:52.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\ServiceLayer\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\ServiceLayer\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ServiceLayer\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T04:25:19.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\ServiceLayer\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\ServiceLayer\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ServiceLayer\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:00:14.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\DAL\\EventDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EventDbContext.cs",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\DAL\\EventDbContext.cs",
+              "RelativeToolTip": "DAL\\EventDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:18:32.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventDetails.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\DAL\\Models\\EventDetails.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\EventDetails.cs",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\DAL\\Models\\EventDetails.cs",
+              "RelativeToolTip": "DAL\\Models\\EventDetails.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:37:53.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Program.cs",
+              "RelativeDocumentMoniker": "AppUI\\Program.cs",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Program.cs",
+              "RelativeToolTip": "AppUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:16:06.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateParticipant.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Views\\Participant\\UpdateParticipant.cshtml",
+              "RelativeDocumentMoniker": "AppUI\\Views\\Participant\\UpdateParticipant.cshtml",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Views\\Participant\\UpdateParticipant.cshtml",
+              "RelativeToolTip": "AppUI\\Views\\Participant\\UpdateParticipant.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T13:56:34.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ParticipantList.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Views\\Participant\\ParticipantList.cshtml",
+              "RelativeDocumentMoniker": "AppUI\\Views\\Participant\\ParticipantList.cshtml",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Views\\Participant\\ParticipantList.cshtml",
+              "RelativeToolTip": "AppUI\\Views\\Participant\\ParticipantList.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T13:57:21.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeleteParticipant.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Views\\Participant\\DeleteParticipant.cshtml",
+              "RelativeDocumentMoniker": "AppUI\\Views\\Participant\\DeleteParticipant.cshtml",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Views\\Participant\\DeleteParticipant.cshtml",
+              "RelativeToolTip": "AppUI\\Views\\Participant\\DeleteParticipant.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T13:56:59.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddParticipant.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Views\\Participant\\AddParticipant.cshtml",
+              "RelativeDocumentMoniker": "AppUI\\Views\\Participant\\AddParticipant.cshtml",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Views\\Participant\\AddParticipant.cshtml",
+              "RelativeToolTip": "AppUI\\Views\\Participant\\AddParticipant.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T13:26:56.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\DAL\\Models\\UserInfo.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\DAL\\Models\\UserInfo.cs",
+              "RelativeToolTip": "DAL\\Models\\UserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T04:20:42.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Views\\EventDetails\\UpdateEvent.cshtml",
+              "RelativeDocumentMoniker": "AppUI\\Views\\EventDetails\\UpdateEvent.cshtml",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Views\\EventDetails\\UpdateEvent.cshtml",
+              "RelativeToolTip": "AppUI\\Views\\EventDetails\\UpdateEvent.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T13:52:09.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetEventsById.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Views\\EventDetails\\GetEventsById.cshtml",
+              "RelativeDocumentMoniker": "AppUI\\Views\\EventDetails\\GetEventsById.cshtml",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Views\\EventDetails\\GetEventsById.cshtml",
+              "RelativeToolTip": "AppUI\\Views\\EventDetails\\GetEventsById.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T13:54:12.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EventList.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Views\\EventDetails\\EventList.cshtml",
+              "RelativeDocumentMoniker": "AppUI\\Views\\EventDetails\\EventList.cshtml",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Views\\EventDetails\\EventList.cshtml",
+              "RelativeToolTip": "AppUI\\Views\\EventDetails\\EventList.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T13:53:45.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DeleteEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Views\\EventDetails\\DeleteEvent.cshtml",
+              "RelativeDocumentMoniker": "AppUI\\Views\\EventDetails\\DeleteEvent.cshtml",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Views\\EventDetails\\DeleteEvent.cshtml",
+              "RelativeToolTip": "AppUI\\Views\\EventDetails\\DeleteEvent.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T13:52:35.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Views\\EventDetails\\AddEvent.cshtml",
+              "RelativeDocumentMoniker": "AppUI\\Views\\EventDetails\\AddEvent.cshtml",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Views\\EventDetails\\AddEvent.cshtml",
+              "RelativeToolTip": "AppUI\\Views\\EventDetails\\AddEvent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T13:23:57.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Models\\UserInfo.cs",
+              "RelativeDocumentMoniker": "AppUI\\Models\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Models\\UserInfo.cs",
+              "RelativeToolTip": "AppUI\\Models\\UserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:06:28.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SpeakerDetails.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Models\\SpeakerDetails.cs",
+              "RelativeDocumentMoniker": "AppUI\\Models\\SpeakerDetails.cs",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Models\\SpeakerDetails.cs",
+              "RelativeToolTip": "AppUI\\Models\\SpeakerDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:07:58.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SessionInfo.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Models\\SessionInfo.cs",
+              "RelativeDocumentMoniker": "AppUI\\Models\\SessionInfo.cs",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Models\\SessionInfo.cs",
+              "RelativeToolTip": "AppUI\\Models\\SessionInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:08:16.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ParticipantEventDetails.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Models\\ParticipantEventDetails.cs",
+              "RelativeDocumentMoniker": "AppUI\\Models\\ParticipantEventDetails.cs",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Models\\ParticipantEventDetails.cs",
+              "RelativeToolTip": "AppUI\\Models\\ParticipantEventDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:07:31.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Models\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "AppUI\\Models\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Models\\LoginResponse.cs",
+              "RelativeToolTip": "AppUI\\Models\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:45:24.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Models\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "AppUI\\Models\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Models\\LoginDTO.cs",
+              "RelativeToolTip": "AppUI\\Models\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:43:14.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EventDetails.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Models\\EventDetails.cs",
+              "RelativeDocumentMoniker": "AppUI\\Models\\EventDetails.cs",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Models\\EventDetails.cs",
+              "RelativeToolTip": "AppUI\\Models\\EventDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:06:55.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ServiceLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\ServiceLayer\\ServiceLayer.csproj",
+              "RelativeDocumentMoniker": "ServiceLayer\\ServiceLayer.csproj",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\ServiceLayer\\ServiceLayer.csproj",
+              "RelativeToolTip": "ServiceLayer\\ServiceLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-23T10:48:54.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoginPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Views\\UserInfo\\LoginPage.cshtml",
+              "RelativeDocumentMoniker": "AppUI\\Views\\UserInfo\\LoginPage.cshtml",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Views\\UserInfo\\LoginPage.cshtml",
+              "RelativeToolTip": "AppUI\\Views\\UserInfo\\LoginPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T13:23:27.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\DAL\\appsettings.json",
+              "RelativeDocumentMoniker": "DAL\\appsettings.json",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\DAL\\appsettings.json",
+              "RelativeToolTip": "DAL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-22T14:14:59.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250623030331_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\DAL\\Migrations\\20250623030331_InitialCreate.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250623030331_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\DAL\\Migrations\\20250623030331_InitialCreate.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250623030331_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T03:03:32.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AppUI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\AppUI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AppUI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T02:33:24.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-22T14:14:55.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\ServiceLayer\\launchSettings.json",
+              "RelativeDocumentMoniker": "ServiceLayer\\launchSettings.json",
+              "ToolTip": "C:\\Users\\thris\\Downloads\\CaseStudy_API\\ServiceLayer\\launchSettings.json",
+              "RelativeToolTip": "ServiceLayer\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T03:41:23.071Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

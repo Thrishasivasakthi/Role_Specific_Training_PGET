@@ -1,0 +1,40 @@
+﻿@model AppUI.Models.EventDetails
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@if (ViewBag.Error != null)
+{
+    <p style="color:red">@ViewBag.Error</p>
+}
+<html>
+<head>
+    <title>Add Event</title>
+</head>
+<body>
+    <h2>Add New Event</h2>
+    <form asp-action="AddEvent" method="post">
+        <div>
+            <label asp-for="EventName">Event Name:</label>
+            <input type="text" asp-for="EventName" placeholder="Enter Event Name" />
+        </div>
+        <div>
+            <label asp-for="EventCategory">Category:</label>
+            <input type="text" asp-for="EventCategory" placeholder="Enter Category" />
+        </div>
+        <div>
+            <label asp-for="EventDate">Date:</label>
+            <input type="datetime-local" asp-for="EventDate" />
+        </div>
+        <div>
+            <label asp-for="Description">Description:</label>
+            <input type="text" asp-for="Description" />
+        </div>
+        <div>
+            <label asp-for="Status">Status:</label>
+            <input type="text" asp-for="Status" placeholder="Active or In-Active" />
+        </div>
+        <div>
+            <input type="submit" value="Add Event" />
+        </div>
+    </form>
+</body>
+</html>
