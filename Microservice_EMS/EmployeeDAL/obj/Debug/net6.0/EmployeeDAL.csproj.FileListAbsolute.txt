@@ -1,0 +1,45 @@
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\EmployeeDAL\obj\Debug\net6.0\EmployeeDAL.csproj.AssemblyReference.cache
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\EmployeeDAL\obj\Debug\net6.0\EmployeeDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\EmployeeDAL\obj\Debug\net6.0\EmployeeDAL.AssemblyInfoInputs.cache
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\EmployeeDAL\obj\Debug\net6.0\EmployeeDAL.AssemblyInfo.cs
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\EmployeeDAL\obj\Debug\net6.0\EmployeeDAL.csproj.CoreCompileInputs.cache
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\EmployeeDAL\bin\Debug\net6.0\EmployeeDAL.deps.json
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\EmployeeDAL\bin\Debug\net6.0\EmployeeDAL.runtimeconfig.json
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\EmployeeDAL\bin\Debug\net6.0\EmployeeDAL.dll
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\EmployeeDAL\bin\Debug\net6.0\EmployeeDAL.pdb
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\EmployeeDAL\obj\Debug\net6.0\EmployeeDAL.dll
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\EmployeeDAL\obj\Debug\net6.0\refint\EmployeeDAL.dll
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\EmployeeDAL\obj\Debug\net6.0\EmployeeDAL.pdb
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\EmployeeDAL\obj\Debug\net6.0\EmployeeDAL.genruntimeconfig.cache
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\EmployeeDAL\obj\Debug\net6.0\ref\EmployeeDAL.dll
+D:\Corporate\CGI\Training Content\Module-1\Demos\Demo-1\EMS\EmployeeDAL\bin\Debug\net6.0\appSettings.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeDAL\bin\Debug\net6.0\appSettings.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeDAL\bin\Debug\net6.0\EmployeeDAL.deps.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeDAL\bin\Debug\net6.0\EmployeeDAL.runtimeconfig.json
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeDAL\bin\Debug\net6.0\EmployeeDAL.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeDAL\bin\Debug\net6.0\EmployeeDAL.pdb
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeDAL\obj\Debug\net6.0\EmployeeDAL.csproj.AssemblyReference.cache
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeDAL\obj\Debug\net6.0\EmployeeDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeDAL\obj\Debug\net6.0\EmployeeDAL.AssemblyInfoInputs.cache
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeDAL\obj\Debug\net6.0\EmployeeDAL.AssemblyInfo.cs
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeDAL\obj\Debug\net6.0\EmployeeDAL.csproj.CoreCompileInputs.cache
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeDAL\obj\Debug\net6.0\EmployeeDAL.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeDAL\obj\Debug\net6.0\refint\EmployeeDAL.dll
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeDAL\obj\Debug\net6.0\EmployeeDAL.pdb
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeDAL\obj\Debug\net6.0\EmployeeDAL.genruntimeconfig.cache
+D:\Corporate\EdElevete\Hexaware\30-May-2025\.Net+Angular\Microservices\Demo\Microservices with API Gateway\EMS\EmployeeDAL\obj\Debug\net6.0\ref\EmployeeDAL.dll
+C:\Users\thris\Downloads\Microservices\Microservices\Demos\Microservices using Api Gateway\EMS\EMS\EmployeeDAL\bin\Debug\net6.0\appSettings.json
+C:\Users\thris\Downloads\Microservices\Microservices\Demos\Microservices using Api Gateway\EMS\EMS\EmployeeDAL\bin\Debug\net6.0\EmployeeDAL.deps.json
+C:\Users\thris\Downloads\Microservices\Microservices\Demos\Microservices using Api Gateway\EMS\EMS\EmployeeDAL\bin\Debug\net6.0\EmployeeDAL.runtimeconfig.json
+C:\Users\thris\Downloads\Microservices\Microservices\Demos\Microservices using Api Gateway\EMS\EMS\EmployeeDAL\bin\Debug\net6.0\EmployeeDAL.dll
+C:\Users\thris\Downloads\Microservices\Microservices\Demos\Microservices using Api Gateway\EMS\EMS\EmployeeDAL\bin\Debug\net6.0\EmployeeDAL.pdb
+C:\Users\thris\Downloads\Microservices\Microservices\Demos\Microservices using Api Gateway\EMS\EMS\EmployeeDAL\obj\Debug\net6.0\EmployeeDAL.csproj.AssemblyReference.cache
+C:\Users\thris\Downloads\Microservices\Microservices\Demos\Microservices using Api Gateway\EMS\EMS\EmployeeDAL\obj\Debug\net6.0\EmployeeDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thris\Downloads\Microservices\Microservices\Demos\Microservices using Api Gateway\EMS\EMS\EmployeeDAL\obj\Debug\net6.0\EmployeeDAL.AssemblyInfoInputs.cache
+C:\Users\thris\Downloads\Microservices\Microservices\Demos\Microservices using Api Gateway\EMS\EMS\EmployeeDAL\obj\Debug\net6.0\EmployeeDAL.AssemblyInfo.cs
+C:\Users\thris\Downloads\Microservices\Microservices\Demos\Microservices using Api Gateway\EMS\EMS\EmployeeDAL\obj\Debug\net6.0\EmployeeDAL.csproj.CoreCompileInputs.cache
+C:\Users\thris\Downloads\Microservices\Microservices\Demos\Microservices using Api Gateway\EMS\EMS\EmployeeDAL\obj\Debug\net6.0\EmployeeDAL.dll
+C:\Users\thris\Downloads\Microservices\Microservices\Demos\Microservices using Api Gateway\EMS\EMS\EmployeeDAL\obj\Debug\net6.0\refint\EmployeeDAL.dll
+C:\Users\thris\Downloads\Microservices\Microservices\Demos\Microservices using Api Gateway\EMS\EMS\EmployeeDAL\obj\Debug\net6.0\EmployeeDAL.pdb
+C:\Users\thris\Downloads\Microservices\Microservices\Demos\Microservices using Api Gateway\EMS\EMS\EmployeeDAL\obj\Debug\net6.0\EmployeeDAL.genruntimeconfig.cache
+C:\Users\thris\Downloads\Microservices\Microservices\Demos\Microservices using Api Gateway\EMS\EMS\EmployeeDAL\obj\Debug\net6.0\ref\EmployeeDAL.dll
