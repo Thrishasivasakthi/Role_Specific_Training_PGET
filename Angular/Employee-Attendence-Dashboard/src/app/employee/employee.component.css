@@ -1,0 +1,14 @@
+.present {
+  background-color: #d4f7d4;
+  color: green;
+}
+
+.absent {
+  background-color: #fdd;
+  color: red;
+}
+
+.wfh {
+  background-color: #e6f0ff;
+  color: blue;
+}

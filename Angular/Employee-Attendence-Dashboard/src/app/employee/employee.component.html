@@ -1,0 +1,25 @@
+<h2>Employee Attendance Dashboard</h2>
+
+<div *ngIf="employees.length === 0">
+  No employees found.
+</div>
+
+<ul>
+  <li *ngFor="let emp of employees"
+      [ngClass]="{
+        'present': emp.isPresent,
+        'absent': !emp.isPresent && !emp.workFromHome,
+        'wfh': emp.workFromHome
+      }"
+      [ngStyle]="{
+        'font-weight': emp.isPresent ? 'bold' : 'normal',
+        'color': emp.department === 'IT' ? 'blue' :
+                 emp.department === 'HR' ? 'purple' :
+                 emp.department === 'Sales' ? 'orange' : 'black'
+      }">
+    {{ emp.name }} ({{ emp.department }}) -
+    <span *ngIf="emp.isPresent">✔ Present</span>
+    <span *ngIf="!emp.isPresent && emp.workFromHome">💻 Work From Home</span>
+    <span *ngIf="!emp.isPresent && !emp.workFromHome">✘ Absent</span>
+  </li>
+</ul>
