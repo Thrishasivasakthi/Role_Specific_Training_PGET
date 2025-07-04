@@ -1,0 +1,10 @@
+form {
+  margin-bottom: 20px;
+}
+
+.preview {
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  padding: 15px;
+  border-radius: 8px;
+}
